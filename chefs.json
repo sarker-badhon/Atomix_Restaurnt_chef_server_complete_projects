@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "chefName": "Gordon Ramsay",
+        "yearsOfExperience": 30,
+        "numRecipes": 300,
+        "recipe":[
+            {
+                "id": 3,
+                "recipe_name": "Lasagna",
+                "ingredients": [
+                  "tomato sauce",
+                  "lasagna noodles",
+                  "ricotta cheese",
+                  "ground beef",
+                  "mozzarella cheese"
+                ],
+                "cooking_method": "1. Cook lasagna noodles according to package instructions. \n2. Brown ground beef in a pan, then add tomato sauce and simmer for 10 minutes. \n3. In a separate bowl, mix together ricotta cheese and shredded mozzarella cheese. \n4. Preheat oven to 375°F (190°C). \n5. Layer lasagna noodles, meat sauce, and cheese mixture in a baking dish, ending with a layer of cheese. \n6. Cover with foil and bake for 25 minutes. \n7. Remove foil and bake for an additional 25 minutes, until cheese is golden brown and bubbly.",
+                "rating": 4.00,
+                "image_link": "https://i.ibb.co/FVY6nt8/food-3.jpg"
+              }
+        ],
+        "numAwards": 25,
+        "like": 50,
+        "imgLink": "https://en.pimg.jp/018/636/979/1/18636979.jpg"
+    },
+    {
+        "id": 2,
+        "chefName": "Julia Child",
+        "yearsOfExperience": 30,
+        "numRecipes": 300,
+        "numAwards": 25,
+        "like": 50,
+        "imgLink": "https://thumbs.dreamstime.com/z/chinese-chef-eating-watermelon-chinese-chef-taking-his-worki-break-eating-delicious-ripe-slice-watermelon-street-158018222.jpg"
+    },
+    {
+        "id": 3,
+        "chefName": "Ina Garten",
+        "yearsOfExperience": 35,
+        "numRecipes": 400,
+        "numAwards": 8,
+        "like": 15,
+        "imgLink": "https://thumbs.dreamstime.com/z/chinese-chef-chopping-serving-peking-duck-uniform-skin-96994424.jpg"
+    },
+    {
+        "id": 4,
+        "chefName": "Anthony Bourdain",
+        "yearsOfExperience": 25,
+        "numRecipes": 200,
+        "recipe_name": [
+            {
+                "id": 1,
+                "recipe_name": "Spaghetti Carbonara",
+                "image_link": "https://i.ibb.co/bRcDF08/food-1.jpg",
+                "rating": 4.4
+            }
+        ],
+        "numAwards": 4,
+        "like": 10,
+        "imgLink": "https://thumbs.dreamstime.com/z/positive-chinese-chef-holding-cutting-board-fish-positive-chinese-chef-holding-cutting-board-fish-close-up-photo-131243219.jpg"
+    },
+    {
+        "id": 5,
+        "chefName": "Alice Waters",
+        "yearsOfExperience": 45,
+        "numRecipes": 350,
+        "numAwards": 10,
+        "like": 30,
+        "imgLink": "https://thumbs.dreamstime.com/z/talented-man-teaching-to-prepeare-chinese-noodle-talented-man-teaching-to-prepeare-chinese-noodle-studing-cooking-classes-131241788.jpg"
+    },
+    {
+        "id": 6,
+        "chefName": "Bobby Flay",
+        "yearsOfExperience": 35,
+        "numRecipes": 450,
+        "numAwards": 15,
+        "like": 25,
+        "imgLink": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    }
+
+
+
+]
